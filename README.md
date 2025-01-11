@@ -1,7 +1,8 @@
 # varshith.github-io
 <title>Git Commands</title>
 <h1>hellooo this is my new page</h1>
-<p>it init
+<h3>
+  Git init
 The command git init is used to create an empty Git repository. 
 After the git init command is used, a .git folder is created in the directory with some subdirectories. Once the repository is initialized, the process of creating other files begins.
 git init
@@ -114,4 +115,4 @@ The git stash command will help a developer switch branches to work on something
 git log
 The git log command shows the order of the commit history for a repository.
 The command helps in understanding the state of the current branch by showing the commits that lead to this state
-</p>
+</h3>
